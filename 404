@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <title>WebSite71</title>
-    <link href="favicon.ico" rel="shortcut icon"
+    <title>Страница не найдена</title>
+    <link href="/favicon.ico" rel="shortcut icon"
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="css/material.green-teal.min.css">
-    <link rel="stylesheet" href="css/styles.css">
-    <script src="js/material.min.js"></script>
+    <link rel="stylesheet" href="/css/material.green-teal.min.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    <script src="/js/material.min.js"></script>
     <style>
     #view-source {
       position: fixed;
@@ -46,11 +46,11 @@
           <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
               <div class="mdl-card__supporting-text">
-              <h4>Добро пожаловать на наш веб-сайт</h4>
-              Здесь вы найдете множество прикольных и увлекательных вещей.
+              <h4>Страница не найдена (ошибка 404)</h4>
+              К сожалению, такой страницы не существует. Её мог удалить автор, либо её никогда не существовало.<br/> Не расстраивайтесь, может вы её найдете!
               </div>
               <div class="mdl-card__actions">
-                <a href="price-list.txt" class="mdl-button">Перейти к прайс-листу</a>
+                <a href="/index.html" class="mdl-button">Искать страницу на нашем сайте</a>
               </div>
             </div>
             <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn3">
